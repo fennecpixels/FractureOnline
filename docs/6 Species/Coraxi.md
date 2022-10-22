@@ -42,8 +42,6 @@ After the distruction of the Binding Stone, the majority of the now-much-larger 
 
 # Physiology
 
-Coraxi are tall, bipedal creatures. They have two sets of hands: their major set resembles that of humanoids, and their minor set has sharp claws used for hunting and piercing. As previously arboreal creatures, the fur on their shoulders and face continues to resemble tree bark; the rest of a Cora body has shorter fur to keep their body insulated.
-
 Coraxi are tall, bipedal creatures with two sets of arms. The major set resembles that of humanoids, with poseable thumbs for general use; the minor set has sharp claws used for hunting and defence. 
 
 As previously arboreal creatures, their markings resemble tree bark. This is most notable on the fur on their shoulders and face, the former of which is significantly longer than their body fur. Their antlers also help the Coraxi to camouflage themselves high-up in the trees. 
