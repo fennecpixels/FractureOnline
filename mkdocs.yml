@@ -22,9 +22,9 @@ theme:
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode
-  favicon: stylesheets/icon.png
+  favicon: icon.png
   icon:
-    logo: stylesheets/icon.png
+    logo: icon.png
 
 
 # Extensions
