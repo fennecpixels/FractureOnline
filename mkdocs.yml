@@ -14,6 +14,8 @@ theme:
         icon: material/toggle-switch-off-outline
         name: Switch to dark mode
 
+    logo: assets/icon.png
+
     # Dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
@@ -22,7 +24,7 @@ theme:
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode
-  logo: assets/icon.png
+
 
 
 # Extensions
