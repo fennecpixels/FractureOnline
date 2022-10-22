@@ -17,7 +17,7 @@
 }
 
 /* h1 underline */
-.md-typeset h1::before{
+h1::before{
   content: "";
   display: block;
   width: 100%;
