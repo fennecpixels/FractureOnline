@@ -7,6 +7,10 @@
   font-family: "Draconis";
 }
 
+.md-typeset h1{
+  position: relative;
+}
+
 @font-face {
   font-family: "Bookerly";
   src: url("Bookerly.ttf");
@@ -14,10 +18,11 @@
 
 :root {
   --md-text-font: "Bookerly";
+  --md-primary-bg-color: sandybrown
 }
 
 /* h1 underline */
-h1::before{
+.md-typeset h1::before{
   content: "";
   display: block;
   width: 100%;
