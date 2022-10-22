@@ -54,6 +54,6 @@
 }
 
 :root {
-  --md-text-font: "Bookerly";
+  font-family: "Bookerly";
   font-style: normal;
 }
