@@ -3,19 +3,14 @@
   src: url("Draconis.otf");
 }
 
-
-.md-typeset h1 {
+.md-typeset h1, .md-typeset h2, .md-typeset h3, .md-typeset h4, .md-typeset h5, .md-typeset h6 {
   font-family: "Draconis";
 }
-
-
 
 @font-face {
   font-family: "Bookerly";
   src: url("Bookerly.ttf");
 }
-
-
 
 :root {
   --md-text-font: "Bookerly";
