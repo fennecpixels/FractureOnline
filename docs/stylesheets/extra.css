@@ -18,11 +18,9 @@
 
 :root {
   --md-text-font: "Bookerly";
+  --md-bg-color: #f5f0df;
 }
 
-body {
-  background-color: red;
-}
 
 /* h1 underline */
 .md-typeset h1::after{
