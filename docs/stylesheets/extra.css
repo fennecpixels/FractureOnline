@@ -4,7 +4,7 @@
   font-style: normal;
 }
 
-@font-face {
+/* @font-face {
   font-family: "Draconis";
   src: url(Draconis\ Bold.otf);
   font-style: oblique;
@@ -20,7 +20,7 @@
   font-family: "Draconis";
   src: url(Draconis\ Bold\ Italic.otf);
   font-style: italic, oblique;
-}
+} */
 
 .md-typeset h1 {
   font-family: "Draconis";
@@ -35,7 +35,7 @@
   font-style: normal;
 }
 
-@font-face {
+/* @font-face {
   font-family: "Bookerly";
   src: url(Bookerly\ Bold.ttf);
   font-style: oblique;
@@ -51,9 +51,8 @@
   font-family: "Bookerly";
   src: url(Bookerly\ Bold\ Italic.ttf);
   font-style: italic, oblique;
-}
+} */
 
-p {
-  font-family: "Bookerly";
-  font-style: normal;
+:root {
+  --md-text-font: "Bookerly";
 }
