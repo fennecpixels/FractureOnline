@@ -47,8 +47,9 @@ extra_css:
   - stylesheets/extra.css
 
 theme:
-  logo: docs/imgs/icon.png
-  favicon: docs/imgs/icon.png
+  icon:
+  logo: imgs/icon.png
+  favicon: imgs/icon.png
 
 plugins:
   - search
