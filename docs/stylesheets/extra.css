@@ -1,6 +1,7 @@
 @font-face {
   font-family: "Draconis";
   src: url("Draconis.otf");
+  font-style: normal;
 }
 
 @font-face {
@@ -23,7 +24,7 @@
 
 .md-typeset h1 {
   font-family: "Draconis";
-  font-style: inherit;
+  font-style: normal;
 }
 
 
@@ -31,6 +32,7 @@
 @font-face {
   font-family: "Bookerly";
   src: url("Bookerly.ttf");
+  font-style: normal;
 }
 
 @font-face {
@@ -53,5 +55,5 @@
 
 :root {
   --md-text-font: "Bookerly";
-  font-style: inherit;
+  font-style: normal;
 }
