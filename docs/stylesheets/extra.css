@@ -1,8 +1,12 @@
 @font-face {
   font-family: "Draconis";
-  src: url("fonts/Draconis.otf");
+  src: url("Draconis.otf");
 }
 
 .md-typeset h1 {
   font-family: "Draconis";
+}
+
+:root {
+  --md-text-font: "Draconis";
 }
