@@ -21,7 +21,7 @@
 }
 
 body {
-  --md-default-bg-color: red;
+  background-color: red;
 }
 
 /* h1 underline */
