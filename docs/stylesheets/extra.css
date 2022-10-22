@@ -1,6 +1,6 @@
 @font-face {
   font-family: "Draconis";
-  src: url("/fonts/Draconis.otf");
+  src: url("fonts/Draconis.otf");
 }
 
 .md-typeset h1 {
