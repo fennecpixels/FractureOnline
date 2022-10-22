@@ -15,7 +15,7 @@ theme:
         name: Switch to dark mode
 
     - logo: assets/icon.png
-    
+
     - favicon: assets/icon.png
 
     # Dark mode
@@ -48,7 +48,7 @@ markdown_extensions:
   - pymdownx.tilde
 
   - toc:
-      permalink: true
+      permalink: false
 
 extra_css:
   - stylesheets/extra.css
