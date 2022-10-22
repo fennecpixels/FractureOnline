@@ -1,13 +1,11 @@
 @font-face {
   font-family: "Draconis";
   src: url("Draconis.otf");
-  font-style: normal;
 }
 
 
 .md-typeset h1 {
   font-family: "Draconis";
-  font-style: normal;
 }
 
 
@@ -15,7 +13,6 @@
 @font-face {
   font-family: "Bookerly";
   src: url("Bookerly.ttf");
-  font-style: normal;
 }
 
 
