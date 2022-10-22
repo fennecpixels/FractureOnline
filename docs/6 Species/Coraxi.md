@@ -3,7 +3,9 @@ tags: coraxi species
 share: true
 ---
 # Coraxi
-Coraxi are one of the only native species to Fracture, their species having come to fruition before [The Great Split](The%20Great%20Split.md). They were previously an arboreal species before augmentation by [Pakaru](Pakaru), whose influence  made them abundant, until they were driven to near-extinction by [Snow Elves](Snow%20Elf.md) and the other primitive tribes after the Great Split. During the [War of Patrons](War%20of%20Patrons.md), Pakaru took [The Chimaera](The%20Chimaera) out of hibernation which led to the restoration of his species thanks to [Airve Snowblood](../1%20Characters/1.1%20Deities/Revai,%20Fracture's%20Ward.md). The majority of Coraxi now live near [Boundary's Edge](Boundary's%20Edge) in a symbiotic relationship with [Boundarywalkers](Boundarywalker).
+Coraxi are a native species to Fracture. They were once arboreal predators, until their augmentation by [Pakaru](Pakaru) empowered the species enough to settle on the floor, where they helped those displaced by [The Great Split](The%20Great%20Split.md). Although they were hunted to extinction by [Snow Elves](Snow%20Elf.md), the Coraxi population saw a restoration effort led by [Airve Snowblood](../1%20Characters/1.1%20Deities/Revai,%20Fracture's%20Ward.md).
+
+Many Coraxi now live in [Boundary's Edge](Boundary's%20Edge) along with the [Boundarywalkers](Boundarywalker).
 
 # History
 ## Before the Great Split
@@ -23,7 +25,7 @@ Pakaru wanted the Coraxi to act as a guide for the new species. They would scout
 
 Once the new species were settled, their increasing need for wood threatened the Coraxi forests. Some groups began to copy the primitive structures they had watched many humans build, whereas some turned to hostility. Those that copied spread out into open heathlands as an emerging tribal community; those that fought stayed in the forests and regressed into a strongly territorial force, though passive to other Coraxi. Both groups would accommodate the other when needed—the decision was seen as one of survival for the entire species, not just the individual. 
 
-As the new species—a name which stuck with the elves, orcs, and  humans—developed their technology rapidly, tribal Coraxi were often the target of hunts due to their size. One Cora could feed a family for up to six months. Some humans tried to eat Coraxi regularly, but domestication repeatedly failed; humans didn’t know nor care that their food was as intelligent as themselves. This ignorance meant that many humans raided the tribal Coraxi, who they thought were the same as those that defended the forest. The population never recovered from this war.
+As the new species—a name which stuck with the elves, orcs, and  humans—developed their technology rapidly, tribal Coraxi were often the target of hunts due to their size. One Cora could feed a family for half a winter. Some humans tried to eat Coraxi regularly, but domestication repeatedly failed; humans didn’t know nor care that their food was as intelligent as themselves. This ignorance meant that many humans raided the tribal Coraxi, who they thought were the same as those that defended the forest. The population never recovered from this war.
 
 Numbers dropped almost exponentially, and Coraxi faced a serious threat of extinction. Territorial Coraxi lost their war and settled in the last few communities. Eventually, only one tribe remained—no longer needed as food, many hoped that humans would want to protect the species that helped them. The final assault on the last tribe was not led by humans, but by Snow Elves—the emerging Snowblood family, who saw the Coraxi as a species to fight for sport, would attack in the dusk. 
 
@@ -32,7 +34,7 @@ All Coraxi died in this fight but one. [The Chimaera](The%20Chimaera) would be t
 ## The [War of Patrons](War%20of%20Patrons.md)
 As the Dragonkin emerged, it was very clear that they were weaker in terms of martial power. [Pakaru](Pakaru) recalled [The Chimaera](The%20Chimaera) and sent [Airve Snowblood](../1%20Characters/1.1%20Deities/Revai,%20Fracture's%20Ward.md) to recruit him: the Chimaera agreed to help the Dragonkin on the condition that both could kill the final Snowblood monarchs—notably [Ændren Snowblood](%C3%86ndren%20Snowblood.md). 
 
-After Airve’s capture, the Chimaera accompanied him in returning to the final assault. The two, in collaboration with [Sæval Crasys](S%C3%A6val%20Crasys.md), defended the tribe successfully. After a vote, the Coraxi decided to follow Airve and the Chimaera back to the future where it would be safer—no notable records of the Coraxi survived the Snowblood rule. 
+Eventually, the Chimaera and Airve would time travel to the day of the final assault and change the tide. Together with [Sæval Crasys](S%C3%A6val%20Crasys.md), the three defended the tribe without a single Cora dying. The tribe elected to travel to the future where the knowledge of their species was limited.
 
 ## A World post-Binding
 
