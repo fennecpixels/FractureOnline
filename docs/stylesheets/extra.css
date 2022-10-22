@@ -15,3 +15,14 @@
 :root {
   --md-text-font: "Bookerly";
 }
+
+/* h1 underline */
+.md-typeset h1::before{
+  content: "";
+  display: block;
+  width: 100%;
+  height: 4px;
+  left: 0;
+  border: none;
+  background: linear-gradient(to left, #c93c3c, transparent);
+}
