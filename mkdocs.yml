@@ -3,9 +3,8 @@ site_name: Fracture
 theme:
   
     name: 'material'
-    - logo: assets/icon.png
-
-    - favicon: assets/icon.png
+    logo: assets/icon.png
+    favicon: assets/icon.png
     palette:
 
     # Light mode
