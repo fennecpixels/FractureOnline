@@ -3,7 +3,7 @@ site_name: Fracture
 theme:
   
     name: 'material'
-    logo: assets/icon.png
+    logo: assets/pageicon.png
     favicon: assets/icon.png
     palette:
 
