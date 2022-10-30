@@ -3,19 +3,27 @@ share: true
 tag: deity timeless pakaru
 ---
 
-Pakaru is an allegedly timeless [Fractured Remnant](Fractured%20Remnants) created during [The Great Split](The%20Great%20Split.md). It is an anomaly in that it is truly sentient and animated^[The other  alive fractured remnant, [Quantum](Quantum), is neither animated nor fully sentient—*see the [10 Seconds](10%20Seconds).*], and in that it survived the [Unbinding](Unbinding.md). 
+Pakaru is an allegedly timeless [Fractured Remnant](Fractured%20Remnants) created during [The Great Split](The%20Great%20Split.md). It is an anomaly in that it is truly sentient and animated[^1], and in that it survived the [Unbinding](Unbinding.md). 
+
+[^1]: The other  alive fractured remnant, [Quantum](Quantum), is neither animated nor fully sentient—*see the [10 Seconds](10%20Seconds).*
 
 ## Structure
 
-Pakaru can be considered as a subtance, a patron, or as a leader.^[N.B.: Pakaru is a multifaceted creature whom we don’t fully understand; there are some scholars who have dedicated their entire research to its material properties, but only found information on its psychological properties. *I am warning you now—this cursed creature is will mock and flout your questions!*]
+Pakaru can be considered as a subtance, a patron, or as a leader.[^2]
+
+[^2]: N.B.: Pakaru is a multifaceted creature whom we don’t fully understand; there are some scholars who have dedicated their entire research to its material properties, but only found information on its psychological properties. *I am warning you now—this cursed creature will mock and flout your questions!*
 
 ### As Matter
-Pakaru can not be classified as an organism nor as a molecular structure: it lacks all cellular structures, and its structure flouts modern atomic models. Microscopically it is understood to play some role in the extracellular matrix, and macroscopically its functions are clearly similar to an organism. Pakaru acts like a plastic polymer in terms of mechanics, although chemical and phase properties are currently unknown^[A colleague of mine once suggested that the creature does not want us to know this information. Considering the political influence it has had over [Santarri](Santarri.md), I believe this to be fully true.]. In other words, this matter acts outside of known, expected patterns. 
+Pakaru can not be classified as an organism nor as a molecular structure: it lacks all cellular structures, and its structure flouts modern atomic models. Microscopically it is understood to play some role in the extracellular matrix, and macroscopically its functions are clearly similar to an organism. Pakaru acts like a plastic polymer in terms of mechanics, although chemical and phase properties are currently unknown[^3]. In other words, this matter acts outside of known, expected patterns. 
+
+[^3]: A colleague of mine once suggested that the creature does not want us to know this information. Considering the political influence it has had over [Santarri](Santarri.md), I believe this to be fully true. 
 
 Pakaru poses the ability to grow, assumedly through converting ambient chemicals into its own matter. On both micro- and macroscopic scales it will react to its surroundings. It can catalyse protein synthesis in organisms, and it can transfer its inherent chemical energy into useful forms such as sound; but it has never been observed to reproduce. Amongst those who research Pakaru there is a debate: if it meets all of these criteria, is it alive? 
 
 ### As a Patron
-As a patron of magic, Pakaru focuses on the need for survival. Just by being in close proximity to highly-concentrated of its matter, biological matter tends to heal itself—and sometimes resisting death.  When one is even closer, it is often harder to remember exactly what happens during this period of self-sustaining; however some reports have suggested that Pakaru will take over the body and find food, water, and shelter, then release its grip.^[I have wondered many times as to why it plays this game with us—are we its children, whom it wants to see protected? Or is Pakaru something memetic: a remnant of the trauma from the Great Split?]
+As a patron of magic, Pakaru focuses on the need for survival. Just by being in close proximity to highly-concentrated of its matter, biological matter tends to heal itself—and sometimes resisting death.  When one is even closer, it is often harder to remember exactly what happens during this period of self-sustaining; however some reports have suggested that Pakaru will take over the body and find food, water, and shelter, then release its grip.[^4]
+
+[^4]: I have wondered many times as to why it plays this game with us—are we its children, whom it wants to see protected? Or is Pakaru something memetic: a remnant of the trauma from the Great Split?
 
 Pakaru’s most ostensible power, [Augmentation](Pakaru%E2%80%99s%20Augmentation.md), is only offered through direct contact after this sustained state. Its exact criteria are unknown, but it offers survival for servitude: its vassals, who are almost always anonymous, enact Pakaru’s will as and when necessary in return for health, power, or peace. It considers this as a way to “liberate those who fall victim to unjust violence”. One known example of its Augmentation is that of the [Coraxi](../../6%20Species/Coraxi.md). 
 
