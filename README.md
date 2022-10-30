@@ -1,4 +1,11 @@
-# Publish your Obsidian Notes
+# Fracture
+The worldbuilding notes for Fracture, as created by R. C. &amp; Co.
+
+- Written through obsidian.md
+- [Published here](wiki.fennecpixels.com)
+- (c) fennecpixels
+
+<!-- # Publish your Obsidian Notes
 
 (MkDocs template)
 
@@ -52,4 +59,4 @@ By default, the sections and pages will follow the folder structure within `/doc
 
 - [mathieudutour/gatsby-digital-garden: digital garden with Gatsby](https://github.com/mathieudutour/gatsby-digital-garden)
 - [TuanManhCao/digital-garden: Free Obisidian Publish alternative](https://github.com/TuanManhCao/digital-garden)
-
+ -->
