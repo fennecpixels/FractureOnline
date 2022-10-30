@@ -21,7 +21,7 @@ Pakaru can not be classified as an organism nor as a molecular structure: it lac
 Pakaru poses the ability to grow, assumedly through converting ambient chemicals into its own matter. On both micro- and macroscopic scales it will react to its surroundings. It can catalyse protein synthesis in organisms, and it can transfer its inherent chemical energy into useful forms such as sound; but it has never been observed to reproduce. Amongst those who research Pakaru there is a debate: if it meets all of these criteria, is it alive? 
 
 ### As a Patron
-As a patron of magic, Pakaru focuses on the need for survival. Just by being in close proximity to highly-concentrated of its matter, biological matter tends to heal itself—and sometimes resisting death.  When one is even closer, it is often harder to remember exactly what happens during this period of self-sustaining; however some reports have suggested that Pakaru will take over the body and find food, water, and shelter, then release its grip.[^4]
+As a patron of magic, Pakaru focuses on the need for survival. Just by being in close proximity to highly-concentrated areas of its matter, biological matter tends to heal itself—and sometimes resisting death.  When one is even closer, it is often harder to remember exactly what happens during this period of self-sustaining; however some reports have suggested that Pakaru will take over the body and find food, water, and shelter, then release its grip.[^4]
 
 [^4]: I have wondered many times as to why it plays this game with us—are we its children, whom it wants to see protected? Or is Pakaru something memetic: a remnant of the trauma from the Great Split?
 
@@ -36,7 +36,7 @@ Pakaru is known to guard a large forest in the south-west of Fracture. It does n
 
 Pakaru first formed during [The Great Split](The%20Great%20Split.md), but its origins within are unknown. Its arrival brought augmentation to many native species of Fracture, such as the [Coraxi](../../6%20Species/Coraxi.md), who worked with Pakaru to help displaced populations.
 
-When [The Chimaera](The%20Chimaera) was imprisoned, [Pakaru](Pakaru) was able to protect the Cora until his releace during the [War of Patrons](War%20of%20Patrons.md).
+When [The Chimaera](The%20Chimaera) was imprisoned, [Pakaru](Pakaru) was able to protect the Cora until his release during the [War of Patrons](War%20of%20Patrons.md).
 
 Pakaru was a part of the [IFM](IFM.md) under the alias of ‘Dust’. Near [New Tokyo](New%20Tokyo.md), it reanimated a long-dead human whom it employed into servitude. Dust would stay with the IFM until the New Tokyo exodus. 
 
