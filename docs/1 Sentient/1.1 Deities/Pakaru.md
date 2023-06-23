@@ -3,9 +3,9 @@ share: true
 tag: deity timeless pakaru
 ---
 
-Pakaru is an allegedly timeless [Fractured Remnant](../../../Fractured%20Remnants.md) created during [The Great Split](The%20Great%20Split.md). It is an anomaly in that it is truly sentient and animated[^1], and in that it survived the [Unbinding](Unbinding.md). 
+Pakaru is an allegedly timeless [Fractured Remnant](Fractured%20Remnants.md) created during [The Great Split](The%20Great%20Split.md). It is an anomaly in that it is truly sentient and animated[^1], and in that it survived the [Unbinding](Unbinding.md). 
 
-[^1]: The other  alive fractured remnant, [Quantum](../../../Quantum.md), is neither animated nor fully sentient—*see the [10 Seconds](../../../10%20Seconds.md).*
+[^1]: The other  alive fractured remnant, [Quantum](Quantum.md), is neither animated nor fully sentient—*see the [10 Seconds](10%20Seconds.md).*
 
 ## Structure
 
@@ -25,7 +25,7 @@ As a patron of magic, Pakaru focuses on the need for survival. Just by being in 
 
 [^4]: I have wondered many times as to why it plays this game with us—are we its children, whom it wants to see protected? Or is Pakaru something memetic: a remnant of the trauma from the Great Split?
 
-Pakaru’s most ostensible power, [Augmentation](../../../Pakaru%E2%80%99s%20Augmentation.md), is only offered through direct contact after this sustained state. Its exact criteria are unknown, but it offers survival for servitude: its vassals, who are almost always anonymous, enact Pakaru’s will as and when necessary in return for health, power, or peace. It considers this as a way to “liberate those who fall victim to unjust violence”. One known example of its Augmentation is that of the [Coraxi](../../5%20Species/Coraxi.md). 
+Pakaru’s most ostensible power, [Augmentation](Pakaru%E2%80%99s%20Augmentation.md), is only offered through direct contact after this sustained state. Its exact criteria are unknown, but it offers survival for servitude: its vassals, who are almost always anonymous, enact Pakaru’s will as and when necessary in return for health, power, or peace. It considers this as a way to “liberate those who fall victim to unjust violence”. One known example of its Augmentation is that of the [Coraxi](../../5%20Species/Coraxi.md). 
 
 Pakaru manifests itself through various manipulations of its matter. On one end of the spectrum, it may appear as vibrant red flora—often considered a saving grave for travellers and soldiers alike—and on the other, it will create blood-red tendrils, the contours of which form into a nearly-humanoid body. Notably Pakaru likes to change how it appears depending on whomever it talks to: according to a close ally, [Airve Snowblood](../1.2%20People/Airve%20Snowblood.md), “he enjoys mimicking a Cora’s second set of arms”.
 
@@ -36,7 +36,7 @@ Pakaru is known to guard a large forest in the south-west of Fracture. It does n
 
 Pakaru first formed during [The Great Split](The%20Great%20Split.md), but its origins within are unknown. Its arrival brought augmentation to many native species of Fracture, such as the [Coraxi](../../5%20Species/Coraxi.md), who worked with Pakaru to help displaced populations.
 
-When [Naira, the Chimæra](../../../Naira,%20the%20Chim%C3%A6ra.md) was imprisoned, [Pakaru](Pakaru.md) was able to protect the Cora until his release during the [War of Patrons](War%20of%20Patrons.md).
+When [Naira, the Chimæra](Naira,%20the%20Chim%C3%A6ra.md) was imprisoned, [Pakaru](Pakaru.md) was able to protect the Cora until his release during the [War of Patrons](War%20of%20Patrons.md).
 
 Pakaru was a part of the [IFM](IFM.md) under the alias of ‘Dust’. Near [New Tokyo](New%20Tokyo.md), it reanimated a long-dead human whom it employed into servitude. Dust would stay with the IFM until the New Tokyo exodus. 
 
