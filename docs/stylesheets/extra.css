@@ -11,7 +11,13 @@
   position: relative;
 }
 
+[data-md-color-scheme="slate"] .md-typset h1{
+  color: black;
+}
 
+[data-md-color-scheme="default"]  .md-typeset h1{
+  color: white;
+}
 
 @font-face {
   font-family: "Bookerly";
