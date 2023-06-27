@@ -12,7 +12,7 @@
 }
 
 [data-md-color-scheme="slate"] .md-typset h1{
-  color: #000000;
+  color: !important #000000;
 }
 
 [data-md-color-scheme="default"]  .md-typeset h1{
