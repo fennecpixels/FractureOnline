@@ -11,15 +11,11 @@
   position: relative;
 }
 
-/* Light theme styles */
-
-body:not(.dark) .md-typeset h1 {
+[data-md-color-scheme="slate"] .md-typset h1{
   color: black;
 }
 
-/* Dark theme styles */
-
-body.dark .md-typeset h1 {
+[data-md-color-scheme="default"]  .md-typeset h1{
   color: white;
 }
 
