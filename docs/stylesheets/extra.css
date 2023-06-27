@@ -9,8 +9,20 @@
 
 .md-typeset h1{
   position: relative;
-  color: black
 }
+
+/* Light theme styles */
+
+body:not(.dark) .md-typeset h1 {
+  color: black;
+}
+
+/* Dark theme styles */
+
+body.dark .md-typeset h1 {
+  color: white;
+}
+
 
 @font-face {
   font-family: "Bookerly";
