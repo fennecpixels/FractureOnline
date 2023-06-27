@@ -29,7 +29,7 @@
   height: 4px;
   left: 0;
   border: none;
-  background: linear-gradient(to right, #c93c3c, transparent);
+  background: linear-gradient(to right, #e45732, transparent);
 }
 .md-typeset h2::after{
   content: "";
@@ -38,7 +38,7 @@
   height: 4px;
   left: 0;
   border: none;
-  background: linear-gradient(to right, tan, transparent);
+  background: linear-gradient(to right, #ffbf69, transparent);
 }
 .md-typeset h3::after{
   content: "";
@@ -47,5 +47,5 @@
   height: 4px;
   left: 0;
   border: none;
-  background: linear-gradient(to right, #c93c3c, transparent);
+  background: linear-gradient(to right, #70a288, transparent);
 }
