@@ -30,6 +30,10 @@ theme:
 # Extensions
 markdown_extensions:
   - footnotes
+  - nl2br
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
   # - attr_list
   - pymdownx.arithmatex:
       generic: true
@@ -56,6 +60,7 @@ plugins:
   - search
   - roamlinks 
   - mermaid2
+  - callouts
 
 extra_javascript:
   - javascripts/mathjax.js
