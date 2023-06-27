@@ -12,11 +12,11 @@
 }
 
 [data-md-color-scheme="slate"] .md-typset h1{
-  color: black;
+  color: white;
 }
 
 [data-md-color-scheme="default"]  .md-typeset h1{
-  color: white;
+  color: black;
 }
 
 @font-face {
