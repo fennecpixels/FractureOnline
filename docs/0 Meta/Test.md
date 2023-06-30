@@ -2,16 +2,21 @@
 share: true
 ---
 
-> [!infobox|wikipedia left]
+> [!infobox|wikipedia right]
 > 
-> # Airve
+> <h1>Airve</h1>
 > 
-> ##### Stats
+> <h5>Stats</h5>
 > 
 > | Type |  Stat |
 > | ---- | ---- |
 > | Test | Testing |
 > | Test | Testing |
+> 
+> <h5> Stats 2 </h5>
+> 
+> | Type | Stat |
+> | ---- | ---- |
 > | Test | Testing |
 > | Test | Testing |
 
