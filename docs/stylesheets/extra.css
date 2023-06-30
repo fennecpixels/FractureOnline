@@ -54,13 +54,14 @@
   width: 70%;
   height: 4px;
   left: 0;
+}
 
 /* Infobox Stuff, from SlRvb*/
-div.infobox > .admonition-title{
+div[class~="infobox"] > p.admonition-title{
 display: none !important;
 }
   
-.admonition.infobox > h1::after {
+div[class~="infobox"] > h1::after {
   display: none !important;
 }
 
