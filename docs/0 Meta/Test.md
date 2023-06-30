@@ -4,7 +4,7 @@ share: true
 
 This is *before* the infobox.
 
-> [!infobox|left wikipedia] 
+> [!infobox|left ] 
 > <h1>Airve</h1>
 > 
 > <h5>Stats</h5>
