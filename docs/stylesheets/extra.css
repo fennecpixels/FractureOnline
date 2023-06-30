@@ -56,12 +56,12 @@
   left: 0;
 
 /* Infobox Stuff, from SlRvb*/
-dov[class~="infobox"] .admonition-title{
+div[class~="infobox"] .admonition-title{
 display: none !important;
 }
   
-.admonition.infobox h1::after {
-  display: none;
+.admonition.infobox > h1::after {
+  display: none !important;
 }
 
 
