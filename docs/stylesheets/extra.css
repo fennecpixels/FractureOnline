@@ -56,7 +56,7 @@
   left: 0;
 
 /* Infobox Stuff, from SlRvb*/
-div[class~="infobox"] .admonition-title{
+div.infobox > .admonition-title{
 display: none !important;
 }
   
