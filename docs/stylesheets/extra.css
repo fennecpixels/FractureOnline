@@ -56,13 +56,14 @@
   left: 0;
 
 /* Infobox Stuff, from SlRvb*/
-p.admonition-title{
+dov[class~="infobox"] .admonition-title{
 display: none !important;
+}
+  
+.admonition.infobox h1::after {
+  display: none;
 }
 
-div[class~="infobox"] + h1::after {
-display: none !important;
-}
 
 div[class~="infobox"] > h1 {
   justify-content: center;
