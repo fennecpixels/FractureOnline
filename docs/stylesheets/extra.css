@@ -84,3 +84,7 @@ div[class~="infobox"] table {
   --table-header-border-color: transparent;
 }
 
+.admonition.infobox{
+  margin: 0;
+  padding: 0;
+}
