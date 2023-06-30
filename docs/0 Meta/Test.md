@@ -1,9 +1,10 @@
 ---
 share: true
 ---
-> [!infobox|right]
-> # Airve
-> ##### Stats
+
+> [!infobox|wikipedia left]
+> <h1>Airve</h1>
+> <h5>Stats</h5>
 > | Type |  Stat |
 > | ---- | ---- |
 > | Test | Testing |
@@ -15,5 +16,4 @@ share: true
 > | Test | Testing |
 > | Test | Testing |
 
-This is a test article, once again, to see if the SIRvb callout snippets work.
 
