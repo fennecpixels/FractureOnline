@@ -2,7 +2,7 @@
 share: true
 ---
 
-> [!infobox|wikipedia right]
+> [!infobox|right wikipedia] " "
 > 
 > <h1>Airve</h1>
 > 
