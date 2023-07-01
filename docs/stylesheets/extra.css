@@ -56,7 +56,7 @@
 .md-typeset h3::after{
   content: "";
   display: block;
-  width: 70%;
+  width: 60%;
   height: 4px;
   left: 0;
   background: linear-gradient(to right, #ffbf69, transparent);
