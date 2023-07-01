@@ -61,35 +61,64 @@
   left: 0;
 }
 
-/* Infobox Stuff, from SlRvb*/
-div[class~="infobox"] > p.admonition-title{
-display: none !important;
+/* Infobox Stuff */
+
+div[class~="infobox"] > p.admonition-title { 
+  display: none !important; 
+  /* Remove the title */
 }
   
 div[class~="infobox"] > h1::after {
-  display: none !important;
+  display: none !important; 
+  /* Remove the underline for the h1 */
 }
 
 
-div[class~="infobox"] > h1 {
-  justify-content: center;
-  align-items: center;
-  align-self: center;
-}
-
-div[class~="infobox"] table {
-  width: 100%;
-  --table-header-color: var(--text, var(--text-normal));
-  --table-header-background: transparent;
-  --table-header-background-hover: var(--td, var(--table-background));
-  --table-row-background-hover: var(--td, var(--table-background));
-  --table-row-alt-background: transparent;
-  --table-column-alt-background: transparent;
-  --table-border-color: transparent;
-  --table-header-border-color: transparent;
-}
-
-.admonition.infobox table td,
-.admonition.infobox table th {
+.admonition[class~="infobox"] table {
   padding: 0;
+  border-collapse: collapse;
+  border: none;
+  /* Removes the border from the tables */
+}
+
+.admonition[class~="infobox"] table th, .admonition[class~="infobox"] table td{
+  border: none; 
+  /* Removes the inner border */
+}
+
+div.admonition.inline[class~="infobox"] {
+  padding-left: 0px !important;
+  padding-right: 0px !important;
+  display: flow-root;
+  border:1px solid #70a288;
+  /* Extends the fill to the edges */
+}
+
+
+
+.admonition[class~="infobox"] :is(h1,h2,h3,h4,h5,h6){
+  text-align: center;
+  background-color:#70a288;
+  margin-bottom: 0px;
+  margin-top: 0px;
+  padding:0 !important;
+  color:#000;
+  /* Fills background and centres all headings */
+}
+
+.admonition[class~="infobox"] :is(h3,h4,h5,h6){
+  font-size:large;
+  font-weight:normal;
+  /* Adjusts size and removes bold */
+}
+
+div.admonition.inline[class~="infobox"] p:empty{
+  display: none;
+  /* Fixes spacing*/
+}
+
+.admonition[class~="infobox"] > .md-typeset__scrollwrap{
+  margin-top:0 !important;
+  margin-bottom:0 !important;
+  /* Fixes spacing */
 }
