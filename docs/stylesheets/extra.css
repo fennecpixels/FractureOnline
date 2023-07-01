@@ -79,6 +79,7 @@ div[class~="infobox"] > h1::after {
   border-collapse: collapse;
   border: none;
   /* Removes the border from the tables */
+  display:table;
 }
 
 .admonition[class~="infobox"] table th, .admonition[class~="infobox"] table td{
@@ -122,3 +123,9 @@ div.admonition.inline[class~="infobox"] p:empty{
   margin-bottom:0 !important;
   /* Fixes spacing */
 }
+
+.admonition[class~="infobox"] div.md-typeset__table{
+  margin: 0 auto;
+  width: 100%;
+}
+
