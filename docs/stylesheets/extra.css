@@ -129,3 +129,8 @@ div.admonition.inline[class~="infobox"] p:empty{
   width: 100%;
 }
 
+.admonition[class~="infobox"] p:has(> img){
+  margin:0;
+  font-size:0 !important;
+  /* Removes a small bit of whitespace from under the image.*/
+}
