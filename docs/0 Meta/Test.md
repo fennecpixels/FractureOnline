@@ -9,6 +9,8 @@ This is *before* the infobox.
 > 
 > ![200](../Airve_Spooky_Floxbane.jpg)
 > 
+> *Imaged created by Floxbane.*
+> 
 > <h5>Stats</h5>
 > 
 > | Type |  Stat |
