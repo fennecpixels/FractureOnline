@@ -11,8 +11,13 @@
   position: relative;
 }
 
-[data-md-color-scheme="slate"] .md-typset h1{
-  color: !important #000000;
+[data-md-color-scheme="slate"] .md-typeset h1{
+  color: #f0f0ff;
+}
+
+[data-md-color-scheme="slate"] {
+	--md-hue: 232;
+	--md-default-bg-color: hsla(var(--md-hue),10%,21%,1);
 }
 
 [data-md-color-scheme="default"]  .md-typeset h1{
