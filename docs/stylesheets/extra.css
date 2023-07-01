@@ -134,3 +134,8 @@ div.admonition.inline[class~="infobox"] p:empty{
   font-size:0 !important;
   /* Removes a small bit of whitespace from under the image.*/
 }
+
+.admonition[class~="infobox"] > p:not(:has(> img)){ 
+   text-align:center;
+  /* "subtitle" support */
+}
