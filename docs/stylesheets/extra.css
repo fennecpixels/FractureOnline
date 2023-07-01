@@ -47,11 +47,11 @@
 .md-typeset h2::after{
   content: "";
   display: block;
-  width: 85%;
+  width: 65%;
   height: 4px;
   left: 0;
   border: none;
-  background: linear-gradient(to right, #ffbf69, transparent);
+  background: linear-gradient(to right, #70a288, transparent);
 }
 .md-typeset h3::after{
   content: "";
@@ -59,6 +59,7 @@
   width: 70%;
   height: 4px;
   left: 0;
+  background: linear-gradient(to right, #ffbf69, transparent);
 }
 
 /* Infobox Stuff */
