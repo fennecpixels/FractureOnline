@@ -1,7 +1,7 @@
 ---
 share: true
 ---
-> [!infobox|right] 
+> [!infobox|right]+ 
 > <h1>Airve Snowblood</h1> 
 > 
 > ![200](./Airve_Spooky_Floxbane.jpg)
