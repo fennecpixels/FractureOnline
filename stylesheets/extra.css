@@ -1,0 +1,176 @@
+@font-face {
+  font-family: "CharisSIL";
+  src: url("CharisSIL-Regular.ttf");
+}
+
+.md-typeset h1, h2, h3, h4, h5, h6 {
+  font-family: "CharisSIL";
+  font-weight: bold !important;
+}
+
+.md-typeset h1{
+  position: relative;
+}
+
+[data-md-color-scheme="slate"] .md-typeset h1{
+  color: #f0f0ff;
+}
+
+[data-md-color-scheme="slate"] {
+	--md-hue: 232;
+	--md-default-bg-color: hsla(var(--md-hue),10%,21%,1);
+}
+
+[data-md-color-scheme="default"]  .md-typeset h1{
+  color: black;
+}
+
+@font-face {
+  font-family: "CharisSIL";
+  src: url("CharisSIL-Regular.ttf");
+}
+
+:root {
+  --md-text-font: "CharisSIL";
+  --md-admonition-icon--links: url('lucide-map.svg');
+  --md-admonition-icon--pubdate: url('lucide-calendar-range.svg');
+}
+
+.md-typeset .admonition.links,
+.md-typeset details.links {
+  border-color: rgb(228, 087, 050);
+}
+.md-typeset .links > .admonition-title,
+.md-typeset .links > summary {
+  background-color: rgba(228, 087, 050, 0.1);
+}
+.md-typeset .links > .admonition-title::before,
+.md-typeset .links > summary::before {
+  background-color: rgba(228, 087, 050, 1);
+  -webkit-mask-image: var(--md-admonition-icon--links);
+          mask-image: var(--md-admonition-icon--links);
+}
+
+.md-typeset .admonition.pubdate,
+.md-typeset details.pubdate {
+  border-color: rgb(228, 087, 050);
+}
+.md-typeset .pubdate > .admonition-title,
+.md-typeset .pubdate > summary {
+  background-color: rgba(228, 087, 050, 0.1);
+}
+.md-typeset .pubdate > .admonition-title::before,
+.md-typeset .pubdate > summary::before {
+  background-color: rgba(228, 087, 050, 1);
+  -webkit-mask-image: var(--md-admonition-icon--pubdate);
+          mask-image: var(--md-admonition-icon--pubdate);
+}
+
+
+
+/* h1 underline */
+.md-typeset h1::after{
+  content: "";
+  display: block;
+  width: 100%;
+  height: 4px;
+  left: 0;
+  border: none;
+  background: linear-gradient(to right, #e45732, transparent);
+}
+.md-typeset h2::after{
+  content: "";
+  display: block;
+  width: 65%;
+  height: 4px;
+  left: 0;
+  border: none;
+  background: linear-gradient(to right, #70a288, transparent);
+}
+.md-typeset h3::after{
+  content: "";
+  display: block;
+  width: 60%;
+  height: 4px;
+  left: 0;
+  background: linear-gradient(to right, #ffbf69, transparent);
+}
+
+/* Infobox Stuff */
+
+div[class~="infobox"] > p.admonition-title { 
+  display: none !important; 
+  /* Remove the title */
+}
+  
+div[class~="infobox"] > h1::after {
+  display: none !important; 
+  /* Remove the underline for the h1 */
+}
+
+
+.admonition[class~="infobox"] table {
+  padding: 0;
+  border-collapse: collapse;
+  border: none;
+  /* Removes the border from the tables */
+  display:table;
+}
+
+.admonition[class~="infobox"] table th, .admonition[class~="infobox"] table td{
+  border: none; 
+  /* Removes the inner border */
+}
+
+div.admonition.inline[class~="infobox"] {
+  padding-left: 0px !important;
+  padding-right: 0px !important;
+  display: flow-root;
+  border:1px solid #70a288;
+  /* Extends the fill to the edges */
+}
+
+
+
+.admonition[class~="infobox"] :is(h1,h2,h3,h4,h5,h6){
+  text-align: center;
+  background-color:#70a288;
+  margin-bottom: 0px;
+  margin-top: 0px;
+  padding:0 !important;
+  color:white;
+  /* Fills background and centres all headings */
+}
+
+.admonition[class~="infobox"] :is(h3,h4,h5,h6){
+  font-size:large;
+  font-weight:normal;
+  /* Adjusts size and removes bold */
+}
+
+div.admonition.inline[class~="infobox"] p:empty{
+  display: none;
+  /* Fixes spacing*/
+}
+
+.admonition[class~="infobox"] > .md-typeset__scrollwrap{
+  margin-top:0 !important;
+  margin-bottom:0 !important;
+  /* Fixes spacing */
+}
+
+.admonition[class~="infobox"] div.md-typeset__table{
+  margin: 0 auto;
+  width: 100%;
+}
+
+.admonition[class~="infobox"] p:has(> img){
+  margin:0;
+  font-size:0 !important;
+  /* Removes a small bit of whitespace from under the image.*/
+}
+
+.admonition[class~="infobox"] > p:not(:has(> img)){ 
+   text-align:center;
+  /* "subtitle" support */
+}
