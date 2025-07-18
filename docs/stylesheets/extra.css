@@ -1,10 +1,10 @@
 @font-face {
-  font-family: "Draconis";
-  src: url("Draconis.otf");
+  font-family: "CharisSIL";
+  src: url("CharisSIL-Regular.ttf");
 }
 
 .md-typeset h1, h2, h3, h4, h5, h6 {
-  font-family: "Draconis";
+  font-family: "CharisSIL";
 }
 
 .md-typeset h1{
@@ -25,12 +25,12 @@
 }
 
 @font-face {
-  font-family: "Bookerly";
-  src: url("Bookerly.ttf");
+  font-family: "CharisSIL";
+  src: url("CharisSIL-Regular.ttf");
 }
 
 :root {
-  --md-text-font: "Bookerly";
+  --md-text-font: "CharisSIL";
 }
 
 
