@@ -70,14 +70,6 @@ Although keen to share its storied “life”[^1], Pakaru’s speech is almost i
 
 Pakaru has no knowledge of how or when it was created. Its earliest memories always succeed [The Great Split](The%20Great%20Split.md), where it immediately [tried to help](../../../2%20Species%20and%20Communities/2.1%20Species/Coraxi.md#The%20Great%20Split) the “new species” survive. Several centuries later, as its augmented species, the [Coraxi](../../../2%20Species%20and%20Communities/2.1%20Species/Coraxi.md), were at the edge of extinction, it intervened and rescued [Naira, the Chimæra](Naira,%20the%20Chim%C3%A6ra.md).[^2]
 
-At some time in $\mathbb{F}_{02}$, Pakaru resurrected its first agent: [Dust](Dust.md), a pre-Great Split skeleton. Imperfectly raised, Dust remained a skeleton surrounded by Pakaru’s signature red tissues and tendrils, stuffed into armour. Dust and Pakaru founded the [IFM](IFM.md) alongside [Relas](Relas.md) and [Malachite](Malachite.md).
-
-During the [War of Patrons](War%20of%20Patrons.md), Pakaru sent Dust to $\mathbb{F}_{36}$, a barren lone mountain in its own [Fracture](Fracture.md). While neutral in the conflict, Pakaru revealed to [Airve Snowblood](Airve%20Snowblood.md) the location of [The Chimæra](Naira,%20the%20Chim%C3%A6ra.md). Its redflowers were vital for field medicines (cf. [Ændren Snowblood](%C3%86ndren%20Snowblood.md)).
-
-As the conflict drew to a close, Pakaru announced a pact: those who continue to threaten the integrity of a Fracture will meet its severe consequences. Whatever firepower it has is completely unknown.
-
-Honouring its word, Pakaru fought against [M. Dubois](M.%20Dubois.md) during the [Unbinding](Unbinding.md). It provided aid in [London](London.md) and participated in the final stand against Dubois. 
-
 Since the Unbinding’s end, Pakaru cultivated the [Southwestern Forest](Southwestern%20Forest.md), an off-limits zone said to hold intense biodiversity. The [Kuro](Kuro.md) have set up small encampments around its border to prevent any entry.
 
 ### The Nullspace Kingdom
