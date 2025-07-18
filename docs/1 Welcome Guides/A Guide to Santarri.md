@@ -34,24 +34,15 @@ Western $\mathbb{F}_{2}$ is unfortunately more volatile, and few settlements can
 
 $\mathbb{F}_{2}$ is populated by many species from a range of homelands. We first arrived here after [The Great Split](The%20Great%20Split.md), a series of catastrophes that each brought ruin to our homeworlds; our history is wrought with fighting, rivalry, and hatred, but now we stand at a new age of peace and cooperation. We acknowledge the generosity of countless benefactors, across all our species, who strove for mutual aid in their own time. We endeavour to remember the scars and, too, how they healed.
 
-**The [Coraxi](../2%20Species%20and%20Communities/2.1%20Species/Coraxi.md)** play a particularly important role in our city. They were uplifted to protect the three new species, betrayed when no longer needed, and now resurrected by [Airve Snowblood](Airve%20Snowblood.md). As curious as they are wary, the Coraxi have been looking to define their culture on their own terms, in their own city in the west. In terms of appearance, a Cora stands tall at over 2m on average, with long antlers, two sets of arms, talons, and bifurcating mandibles. More recently, the keener Coraxi have moved into Santarri especially, with several exchange students attending the University of Santarri each year!
+**The [Coraxi](Coraxi.md)** play a particularly important role in our city. They were uplifted to protect the three new species, betrayed when no longer needed, and now resurrected by [Airve Snowblood](Airve%20Snowblood.md). As curious as they are wary, the Coraxi have been looking to define their culture on their own terms, in their own city in the west. In terms of appearance, a Cora stands tall at over 2m on average, with long antlers, two sets of arms, talons, and bifurcating mandibles. More recently, the keener Coraxi have moved into Santarri especially, with several exchange students attending the University of Santarri each year!
 
 ## History
 
 TBA
 
-%% - Quantum
-- Bastions
-- tripartite war
-- alchemy
-- regicide
-- sanctuary
-- WoP/Unbinding
-- Coraxi %%
-
 ## Macrodesire
 
-*Full article: see [Macrodesire](../4%20Macrodesire/Macrodesire.md)*.
+*Full article: see [Macrodesire](Macrodesire.md)*.
 
 While Macrodesire runs latent in all Fractures, our cultures particularly involve Macrodesire as an everyday method of interaction, almost as common as breathing. 
 
@@ -63,16 +54,4 @@ Of course, this is a very anthropological perspective on Macrodesire. Our Fractu
 
 TBA
 
-%% 
-- Food
-	- Spun sugar
-- Notable
-	- Airve
-	- Arnaud
-	- Auburn
-	- Naira
-	- [Unbinding Defence Militia](Unbinding%20Defence%20Militia.md)
-- important customs
-- festivals %%
-
-[^1]: *Hey, Eira, is it worth mentioning the pact? [Pakaru](../3%20History%20and%20Biographies/3.2%20Notable%20People/3.2.5%20Patrons/Pakaru.md) isn’t a rumour anymore, people are GOING to get curious. … I’m just going to put this advisory on and we can update it for next time.*
+[^1]: *Hey, Eira, is it worth mentioning the pact? [Pakaru](Pakaru.md) isn’t a rumour anymore, people are GOING to get curious. … I’m just going to put this advisory on and we can update it for next time.*

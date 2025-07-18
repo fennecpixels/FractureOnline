@@ -11,7 +11,7 @@ share: true
 > [!infobox|right] 
 > <h1>Pakaru </h1> 
 > 
-> %%Image%%
+> *IMAGE EXPUNGED*
 >  
 > <h5>Personal Information</h5>
 > 
@@ -21,7 +21,7 @@ share: true
 > | Gender | ???  |
 > | Birth | ??? |
 > | Death | ??? |
-> | Relationships | [Airve Snowblood](Airve%20Snowblood.md)†<br>[Dust](Dust.md)†<br>[Relas](Relas.md)<br>[Malachite](Malachite.md)<br>[Naira, the Chimæra](Naira,%20the%20Chim%C3%A6ra.md)<br>[Quantum](Quantum.md) %%Alt+0134 for †%%|
+> | Relationships | [Airve Snowblood](Airve%20Snowblood.md)†<br>[Dust](Dust.md)†<br>[Relas](Relas.md)<br>[Malachite](Malachite.md)<br>[Naira, the Chimæra](Naira,%20the%20Chim%C3%A6ra.md)<br>[Quantum](Quantum.md)|
 > 
 > <h5> Social Information </h5>
 >

@@ -83,8 +83,6 @@ Immediately after [The Great Split](The%20Great%20Split.md), [Pakaru](../../3%20
 
 With only anecdotal data, it’s unclear what truly happened to the species. Considering Pakaru has disappeared since the [Unbinding](Unbinding.md), we may never know.
 
-%% These developments led to the promincence of **tribal Coraxi**, now able to create long term settlements. The cooperative nature of those who followed this cause left the **territorial Coraxi** as a more ruthless and predatorial culture within the collective community. Both subcultures were necessary to help the new species—the former revitalising former community structures and the latter more interested in defence. %%
-
 ### Plating
 
 Coraxi have chitinous plates covering their torso, with kite-shaped intrusions and extrusions allowing interlinking. When a Cora falls asleep, they typically round their back, which lets these plates form a cohesive plane. Their mandibles and lower minor limbs are made of the same chitin, often a deep purple colour.
@@ -125,31 +123,5 @@ The questions that remain with us now may be answered in weeks, months, or years
 ## History
 
 *Undergoing rewrite.*
-
-%% ### The Great Split
-
-The Coraxi evolved alongside Fracture’s native ecosystem albeit low on the food chain. Out of necessity, they lived in the canopy where their fur would conceal them best, only briefly venturing to the woodland floor for hunting or foraging.
-
-While we may never know what truly happened before [The Great Split](The%20Great%20Split.md), the consequences of it were instant. When the new species arrived—starved, cold, exposed—[Pakaru](../../3%20History%20and%20Biographies/3.2%20Notable%20People/3.2.5%20Patrons/Pakaru.md) uplifted the Coraxi in a process known as [Augmentation](Pakaru%E2%80%99s%20Augmentation.md). Their newfound strengths saved us: they carried us to safe caves and coppices, protected campsites through the night, and showed us potable water sources. Their help didn’t just help us survive; it unified us.
-
-As we started to rebuild our societies, we replaced the narrative with tales of our own success—human adaptation, eldritch resilience, and orcish intuition. As we needed more lumber, we cut down Coraxi woodland, then retaliated when they defended themselves. This provocation led to a cultural divide for the Coraxi: the *territorial* Coraxi defended their woodland, whereas the *tribal* Coraxi adapted to a life predominantly in fixed settlements on the ground. 
-
-With their reputation soured into a violent caricature, their dignity lost, hunting the Coraxi became an acceptable and profitable sport. Their flesh would feed a family for long enough to justify the risk, especially with an unstable food supply. If there is no enemy, does a society prosper?
-
-The new species enacted genocide, razing all known Coraxi habitats. The [Snowblood](Snowblood.md) empire in particular chased the hunt further: they imprisoned those who survived and destroyed the majority who didn’t.[^1] 
-
-One final tribe remained. Comprised of refugees, lost territorial Coraxi, and whatever hope they had left, they successfully hid for a few months. Here is where their history bifurcates: before the War of Patrons, this account would be far less rich and end in extinction—Snowblood scouts found their settlement, a small clearing in the southeast of $\mathbb{F}_{2}$. Their violence, no longer hiding under a mask of hunger, spared only one. They jailed [Naira, the Chimæra](Naira,%20the%20Chim%C3%A6ra.md), a trophy, left to rot and die, as too would our memory of their species.
-
-This is no longer true. It remains our history—a violent reminder of our selfish malevolence—but hope survived. Before the Chimæra could die, [an unknown Thread](../../3%20History%20and%20Biographies/3.2%20Notable%20People/3.2.5%20Patrons/Pakaru.md) preserved him. That our memory of his species faded all the same was perhaps their greatest protection.
-
-[^1]: The Snowblood family may have existed before [The Great Split](The%20Great%20Split.md), but their empire did not start until long after the Coraxi genocide. In some texts you may read *proto-Snowblood* instead; either is fine.
-
-### The War of Patrons
-
-Early into the [War of Patrons](War%20of%20Patrons.md) (6221–26), the Chimæra was released from his prison. [Pakaru](../../3%20History%20and%20Biographies/3.2%20Notable%20People/3.2.5%20Patrons/Pakaru.md) informed the [Dragonkin](Dragonkin.md), who needed greater support, of a supposed freelancer they could employ.
-
-[Airve Snowblood](Airve%20Snowblood.md) met with the Chimæra and struck a deal: collaboration if they could both assassinate [Ændren Snowblood](%C3%86ndren%20Snowblood.md). On the 5th of Ilubya, 6225, the two successfully killed the Prince of [Noriin](Noriin.md) but Airve failed to escape. Days later, the Chimæra rescued him; Airve would soon return the favour.
-
-Here we return to the other branch of bifurcated history: if not for Airve’s intervention, nothing would remain of the Coraxi’s existence. Instead, Airve and the Chimæra travelled back to the time of the last hunt and evacuated the last few Coraxi settlements. When the scouts returned, they saw a deserted camp and claimed victory. The superficial history stays the same, whilst the Coraxi may rebuild what they lost. %%
 
 On the 16th of Ilubya, 6225, Airve re-emerged with the renewed Coraxi: lost, scared, yet optimistic. Initially staying in camps in the Northeastern Peaks, they eventually relocated to [Boundary's Edge](Boundary's%20Edge.md) after the war.

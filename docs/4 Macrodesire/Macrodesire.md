@@ -9,17 +9,6 @@ fc-date:
 fc-category: 
 ---
 
-%% 
-
-- How I write this will describe the way F0 understands Macrodesire.
-- Airve is a big author in this field, so scientific
-- But cultural influence
-	- What separates a good caster from a bad one? 
-	- How do people learn? What takes forever to learn?
-	- Adapated to use: shopkeepers, etc.?
-
-%%
-
 Fractures carry with them the potential to express **Macrodesire**: a means to shape reality outside of traditional, mechanical methods. This animating force intersects desire and scope to realise the will of a living mind. 
 
 Macrodesire interacts with culture and the material grounds themselves. Each community has its own understanding of its capabilities and methods to draw upon it. If all a soldier learns is how to light a fuse, the same method could fail to stat the central brazier of their village. 
@@ -34,11 +23,6 @@ Macrodesire is a complex system. Looking one level lower, we identify three **po
 - **[Nullspace](Nullspace.md)** is the proprietor of absence. Vacuums are space without matter, but Nullspace does not permit the matter to exist; it is the boundary of space itself. It lines different Fractures like mucus, diluting and corrupting information that passes through it. Exceedingly few communities harness Nullspace in their Macrodesire systems, but we recognise just how much it influences our world.
 - **[Irrealis](Irrealis.md)** is spectral. While Binding revolves around certainty and Nullspace the lack of possibility, Irrealis presents the chance for gradation within Macrodesire. To harness its power is to accept doubt and probability, to bisect between what exists and what does not, and construct the states in between. Only truly recognised as distinct since the [War of Patrons](War%20of%20Patrons.md), Irrealis in its purest form requires communing with the force itself. One must step into its domain and bring it forward to our material reality.
 
-%%
--  Local: magic that extends to the wielder’s surroundings. 
-- Itinerant: magic that travels by a (non-biological?) vector, e.g. wind, water, plant spores, etc.
-- Sturnus: self-iterative, potentially unlimited scope
-%%
 ## Acquisition
 
 Just as Macrodesire usage varies across cultures, so too does its acquisition. Learning Macrodesire is most effective at a young age. For the communities that embrace it, schools offer basic lessons from the beginning, teaching simple light tricks to small enhancements. However, *teaching* is a misnomer; acquiring Macrodesire is an internal process, self-contained and instinctual. Teachers can correct posture or pronunciation (or however the community uses their system), but the child must learn the muscle memory and feeling of using Macrodesire. There is an internal logic to decipher.
