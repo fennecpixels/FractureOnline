@@ -17,15 +17,3 @@ To understand why Fractured Remnants are so elusive—why their capacity to supe
 It is to these larger Fractured Remnants that we must now turn our discussion. They are legendary in the truest sense of the word: every actor to have taken up one’s power places themselves in the lore of future folk tales. To some, these wielders are gods amongst mortals, only able to be stopped by overwhelming force—or an equal. Particularly during the first few centuries, as tyrants sought to embrace the most power, it was their hubris—their conviction that they were indeed gods—which felled them. The lesson, written in blood, tells us clearly that we must understand the idiosyncrasies of each Fractured Remnant, respect them, and understand their own system to fully embrace their potentially reality-shaping power.
 
 [^6]: Nothing in our investigations has suggested this is impossible—it’s more a methodological problem. One of the first skills you learn when dealing with remnants is how to verify that you’re dealing with one. It’s a really simple test: you just feel for that pattern within the object. I describe it as the ebb and flow of glaciers. A slow, deliberate motion from within. It’s a problem, then, because so much of the geology around us is steeped in Macrodesire at its base—think of it like background radiation. At the person-scale, it’s minuscule; by the time you target anything larger than, say, a tree, something else is exerting power over the environment. Something else, at least.
-## List of known notable Fractured Remnants
-
-- **[The Binding Stone](The%20Binding%20Stone.md)** ($\mathbb{F}_{0}$) was a [Binding](Binding.md)-based crystal capable of reconstituting fate, an otherwise immensely difficult task. It was transparent, colourless, and about the size of an apple. The Binding Stone is believed to be fully destroyed following the [War of Patrons](War%20of%20Patrons.md), and its split, non-functional fragments held in an undisclosed location.
-- **The [Stone of Ash](Stone%20of%20Ash.md)** ($\mathbb{F}_{0}$) is an heirloom of the Loheart family, and currently rests with [Auburn Loheart](Auburn%20Loheart.md). Through attuning to it, the wielder can walk through and manipulate fire and metal. It is small, about the size of an olive, and glows with candescent light. 
-- **The [Mind Fragment](Mind%20Fragment.md)** ($\mathbb{F}_{0}$)
-- [Fragmented Gravity](Fragmented%20Gravity.md) comes from [Weltall](Weltall.md), $\mathbb{F}_{02}$. 
-- [Stone of Transformation](Stone%20of%20Transformation.md) comes from [Weltall](Weltall.md), $\mathbb{F}_{02}$. 
-- [The Thread](../../3%20History%20and%20Biographies/3.2%20Notable%20People/3.2.5%20Patrons/Pakaru.md) ($\mathbb{F}_{\infty}$) 
-- [Persuasive Fragment](Persuasive%20Fragment.md) ($\mathbb{F}_{0}$)
-- 
-
- ---

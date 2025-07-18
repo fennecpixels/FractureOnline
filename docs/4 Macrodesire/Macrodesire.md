@@ -45,8 +45,6 @@ Our model of understanding Macrodesire cannot completely encapsulate all that is
 
 [Pakaru](../3%20History%20and%20Biographies/3.2%20Notable%20People/3.2.5%20Patrons/Pakaru.md) is neither god nor species nor a Macrodesire system. It purposefully flouts our attempts at categorisation. The self-proclaimed guardian of adversity and survival acts on its own will to preserve life. It uplifted the Coraxi, prevented their total extinction, but it also sectioned off the southwestern Forests for its own bidding. It takes the dead and reanimates them as agents of its own bidding. It is an enigma that refuses to conform; perhaps that is the universal to life.
 
-The Artefacts are less well-documented and just as enigmatic. They exist beyond our plane of perception, but have some ability to influence Macrodesire within our reality. [M. Dubois](M.%20Dubois.md) used them during the [War of Patrons](War%20of%20Patrons.md) to conduit Irrealis, but otherwise they are observers with power unknown.
-
 The [Dragons](Dragons.md) are even less well understood than the Artefacts. If they do exist, they evade our world entirely. Centuries ago, they were said to nest in [Mitost](Mitost.md) and, rarely, commune with passers-by. They have not been documented since.
 
 With the discovery of Irrealis, we find ourselves inundated with questions about how it functions as a spectral system. How one chooses to perceive Irrealis changes its capabilities, its appearance, and the prerequisites to manipulate it. It feeds on reputation in unprecedented ways. Is it sentient?
