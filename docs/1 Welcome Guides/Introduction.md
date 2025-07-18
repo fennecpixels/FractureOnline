@@ -10,7 +10,7 @@ fc-category:
 Fracture is a lost world. After [The Great Split](The%20Great%20Split.md), its constituent realities fell apart and reformed into pockets of existence. Surrounded by half-transformed, half-familiar landscapes, its first new inhabitants asked themselves what it meant to survive through calamity. Now, thousands of years after their arrival, its natives must reconcile with a new arrival.
 
 > [!info] A meta note…
-> Fracture is a living project: it’s iterative and unfinished, both in the themes I explore and in documentation. Some links may not work, or be incomplete. If an entry is not in the sidebar, hyperlinks directed to it will 404.
+> Fracture is a living project: it’s iterative and unfinished, both in the themes I explore and in documentation. **Some links may not work, or be incomplete.** If an entry is not in the sidebar, hyperlinks directed to it will 404.
 
 ## Fractures
 
@@ -40,13 +40,13 @@ The **[Eldritch](Eldritch%20Lineage.md) species**—commonly Snow Elves—discov
 
 **[Orcs](Orcs.md)** evolved following a very different path compared to their peers: amphibious and electrogenetic. Living across two environments helped them quickly innovate and engineer new technologies, before and after the Great Split. 
 
-**The [Coraxi](Coraxi.md)** are native to Fracture. Their sudden augmentation protected the three new species in the immediate aftermath of the Great Split. Chitinous, antlered, and tree-dwelling, Coraxi were thought to be lost to time for thousands of years. With the old populations brought back, the diaspora now seek their identity once more.
+**The [Coraxi](../2%20Species%20and%20Communities/2.1%20Species/Coraxi.md)** are native to Fracture. Their sudden augmentation protected the three new species in the immediate aftermath of the Great Split. Chitinous, antlered, and tree-dwelling, Coraxi were thought to be lost to time for thousands of years. With the old populations brought back, the diaspora now seek their identity once more.
 
 ## Macrodesire
 
-**[Macrodesire](Macrodesire.md)** is an enigmatic system that shapes reality outside of purely mechanical means. It brings water to crops and the whetstone to a blade. Fractures—and their societies—depend on these remnant pockets of intent to stay whole. 
+**[Macrodesire](../4%20Macrodesire/Macrodesire.md)** is an enigmatic system that shapes reality outside of purely mechanical means. It brings water to crops and the whetstone to a blade. Fractures—and their societies—depend on these remnant pockets of intent to stay whole. 
 
-[Fractured Remnants](Fractured%20Remnants.md) are solidified forms of Macrodesire, used for their power and, increasingly, as currency. 
+[Fractured Remnants](../4%20Macrodesire/4.2%20Fractured%20Remnants/Fractured%20Remnants.md) are solidified forms of Macrodesire, used for their power and, increasingly, as currency. 
 
 ## Dramatis Personae 
 
@@ -58,11 +58,11 @@ While the many do not directly see his influence, his mediation has been paramou
 
 ### Pakaru
 
-The material|being|patron|god that defies our categorisation. [Pakaru](Pakaru.md) is a manifestation of the need to survive: it uplifted the [Coraxi](Coraxi.md) after the Great Split; heals the sick and nearly-dead; yet, somehow, remains untraceable. Its precence is always an omen, especially given its notoriously playful nature.
+The material|being|patron|god that defies our categorisation. [Pakaru](../3%20History%20and%20Biographies/3.2%20Notable%20People/3.2.5%20Patrons/Pakaru.md) is a manifestation of the need to survive: it uplifted the [Coraxi](../2%20Species%20and%20Communities/2.1%20Species/Coraxi.md) after the Great Split; heals the sick and nearly-dead; yet, somehow, remains untraceable. Its precence is always an omen, especially given its notoriously playful nature.
 
 ### Airve Snowblood
 
-Few people have had such an effect as great as [Airve Snowblood](Airve%20Snowblood.md). Born in a lowly [Santarri](Santarri.md), $\mathbb{F}_{2}$, he usurped his parents’ throne and co-created the [Sanctuary](Sanctuary.md), a place of refuge that soon became the cornerstone of the city’s newfound growth. Most famously, he used [The Binding Stone](The%20Binding%20Stone.md) to reconstitute fate and bring the [Coraxi](Coraxi.md) back from extinction. 
+Few people have had such an effect as great as [Airve Snowblood](Airve%20Snowblood.md). Born in a lowly [Santarri](Santarri.md), $\mathbb{F}_{2}$, he usurped his parents’ throne and co-created the [Sanctuary](Sanctuary.md), a place of refuge that soon became the cornerstone of the city’s newfound growth. Most famously, he used [The Binding Stone](The%20Binding%20Stone.md) to reconstitute fate and bring the [Coraxi](../2%20Species%20and%20Communities/2.1%20Species/Coraxi.md) back from extinction. 
 
 With such power, many wonder about his true nature. Who first told him of the Coraxi? How much did he orchestrate for his own benefit? Even since his disappearance, is he truly gone? 
 
