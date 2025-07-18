@@ -32,7 +32,40 @@
 
 :root {
   --md-text-font: "CharisSIL";
+  --md-admonition-icon--links: url('lucide-map.svg');
+  --md-admonition-icon--pubdate: url('lucide-calendar-range.svg');
 }
+
+.md-typeset .admonition.links,
+.md-typeset details.links {
+  border-color: rgb(228, 087, 050);
+}
+.md-typeset .links > .admonition-title,
+.md-typeset .links > summary {
+  background-color: rgba(228, 087, 050, 0.1);
+}
+.md-typeset .links > .admonition-title::before,
+.md-typeset .links > summary::before {
+  background-color: rgba(228, 087, 050, 1);
+  -webkit-mask-image: var(--md-admonition-icon--links);
+          mask-image: var(--md-admonition-icon--links);
+}
+
+.md-typeset .admonition.pubdate,
+.md-typeset details.pubdate {
+  border-color: rgb(228, 087, 050);
+}
+.md-typeset .pubdate > .admonition-title,
+.md-typeset .pubdate > summary {
+  background-color: rgba(228, 087, 050, 0.1);
+}
+.md-typeset .pubdate > .admonition-title::before,
+.md-typeset .pubdate > summary::before {
+  background-color: rgba(228, 087, 050, 1);
+  -webkit-mask-image: var(--md-admonition-icon--pubdate);
+          mask-image: var(--md-admonition-icon--pubdate);
+}
+
 
 
 /* h1 underline */
