@@ -11,7 +11,7 @@ share: true
 > [!infobox|right] 
 > <h1>Pakaru </h1> 
 > 
-> *IMAGE EXPUNGED*
+> %%Image%%
 >  
 > <h5>Personal Information</h5>
 > 
@@ -21,7 +21,7 @@ share: true
 > | Gender | ???  |
 > | Birth | ??? |
 > | Death | ??? |
-> | Relationships | [Airve Snowblood](Airve%20Snowblood.md)†<br>[Dust](Dust.md)†<br>[Relas](Relas.md)<br>[Malachite](Malachite.md)<br>[Naira, the Chimæra](Naira,%20the%20Chim%C3%A6ra.md)<br>[Quantum](Quantum.md)|
+> | Relationships | [Airve Snowblood](Airve%20Snowblood.md)†<br>[Dust](Dust.md)†<br>[Relas](Relas.md)<br>[Malachite](Malachite.md)<br>[Naira, the Chimæra](Naira,%20the%20Chim%C3%A6ra.md)<br>[Quantum](Quantum.md) %%Alt+0134 for †%%|
 > 
 > <h5> Social Information </h5>
 >
@@ -48,7 +48,7 @@ Despite its appearance, it fits in amongst the streets with ease. It blends into
 
 ## Its abundance
 
-Pakaru is omnipresent: it is a life-giver in the most literal sense, found both as a component of life within [Fracture](Fracture.md)—equal to our own cells—and in concentrated flora and fauna. Redflowers, for example, have intense rejuvenating essence that [Vampires](../../../4%20Macrodesire/4.3%20Anomalies/Undeath.md#Vampires) require as part of their diet. 
+Pakaru is omnipresent: it is a life-giver in the most literal sense, found both as a component of life within [Fracture](Fracture.md)—equal to our own cells—and in concentrated flora and fauna. Redflowers, for example, have intense rejuvenating essence that [Vampires](Undeath.md#Vampires) require as part of their diet. 
 
 ## Its sentience
 
@@ -69,6 +69,14 @@ For the [Coraxi](../../../2%20Species%20and%20Communities/2.1%20Species/Coraxi.m
 Although keen to share its storied “life”[^1], Pakaru’s speech is almost incomprehensible at times. What we know of its experiences seem inconsistent with other accounts, and yet it is earnest and keen and intentional when asked for advice. Take heed that the following may not be accurate.
 
 Pakaru has no knowledge of how or when it was created. Its earliest memories always succeed [The Great Split](The%20Great%20Split.md), where it immediately [tried to help](../../../2%20Species%20and%20Communities/2.1%20Species/Coraxi.md#The%20Great%20Split) the “new species” survive. Several centuries later, as its augmented species, the [Coraxi](../../../2%20Species%20and%20Communities/2.1%20Species/Coraxi.md), were at the edge of extinction, it intervened and rescued [Naira, the Chimæra](Naira,%20the%20Chim%C3%A6ra.md).[^2]
+
+At some time in $\mathbb{F}_{02}$, Pakaru resurrected its first agent: [Dust](Dust.md), a pre-Great Split skeleton. Imperfectly raised, Dust remained a skeleton surrounded by Pakaru’s signature red tissues and tendrils, stuffed into armour. Dust and Pakaru founded the [IFM](IFM.md) alongside [Relas](Relas.md) and [Malachite](Malachite.md).
+
+During the [War of Patrons](War%20of%20Patrons.md), Pakaru sent Dust to $\mathbb{F}_{36}$, a barren lone mountain in its own [Fracture](Fracture.md). While neutral in the conflict, Pakaru revealed to [Airve Snowblood](Airve%20Snowblood.md) the location of [The Chimæra](Naira,%20the%20Chim%C3%A6ra.md). Its redflowers were vital for field medicines (cf. [Ændren Snowblood](%C3%86ndren%20Snowblood.md)).
+
+As the conflict drew to a close, Pakaru announced a pact: those who continue to threaten the integrity of a Fracture will meet its severe consequences. Whatever firepower it has is completely unknown.
+
+Honouring its word, Pakaru fought against [M. Dubois](M.%20Dubois.md) during the [Unbinding](Unbinding.md). It provided aid in [London](London.md) and participated in the final stand against Dubois. 
 
 Since the Unbinding’s end, Pakaru cultivated the [Southwestern Forest](Southwestern%20Forest.md), an off-limits zone said to hold intense biodiversity. The [Kuro](Kuro.md) have set up small encampments around its border to prevent any entry.
 
