@@ -49,7 +49,7 @@ fc-category: Publication
 
 **The Coraxi** `/kɔ.ra.ksi/` are a species native to $\mathbb{F}_{2}$ credited for their support immediately after [The Great Split](The%20Great%20Split.md). That they existed was unknown before the [War of Patrons](War%20of%20Patrons.md), during which their species re-emerged. The majority of the population now live in [Boundary's Edge](Boundary's%20Edge.md), Western $\mathbb{F}_{2}$, though a growing number have moved to major cities, notably [Santarri](Santarri.md).
 
-Once an arboreal species, the Coraxi were augmented by [Pakaru](../../3%20History%20and%20Biographies/3.2%20Notable%20People/3.2.5%20Patrons/Pakaru.md) in order to help the *new species* (the Coraxi group term for [Humans](Human.md), [Orcs](Orc.md), and [Snow Elves](Snow%20Elves.md)) survive. Their integral support was the catalyst for the foundations of our society. Then, save for a brief window of peace, we fashioned tools to hunt them. We sought war, then their extinction, then we let their legacy fade.
+Once an arboreal species, the Coraxi were augmented by [Pakaru](../../3%20History%20and%20Biographies/3.2%20Notable%20People/3.2.5%20Patrons/Pakaru.md) in order to help the *new species* (the Coraxi group term for [Humanity](Humanity.md), [Orcs](Orc.md), and [Snow Elves](Snow%20Elves.md)) survive. Their integral support was the catalyst for the foundations of our society. Then, save for a brief window of peace, we fashioned tools to hunt them. We sought war, then their extinction, then we let their legacy fade.
 
 During the War of Patrons, [Naira, the Chimæra](Naira,%20the%20Chim%C3%A6ra.md) was unearthed and later fought alongside [Airve Snowblood](Airve%20Snowblood.md). The two evacuated the Coraxi into our present, reappearing on the 16th of Ilubya, 6225, from which point the displaced species began to rebuild.
 
@@ -80,8 +80,6 @@ Their major arms are much more humanoid. They have a strong grip with larger mus
 ### [Pakaru’s Augmentation](Pakaru%E2%80%99s%20Augmentation.md)
 
 Immediately after [The Great Split](The%20Great%20Split.md), [Pakaru](../../3%20History%20and%20Biographies/3.2%20Notable%20People/3.2.5%20Patrons/Pakaru.md) enlisted the Coraxi for support; it augmented their species in the process. This process—never observed—gave them their sentience, their height, and their strength. Now suitable for search and rescue, they also became strong enough to defend themselves on the woodland floor. 
-
-With only anecdotal data, it’s unclear what truly happened to the species. Considering Pakaru has disappeared since the [Unbinding](Unbinding.md), we may never know.
 
 ### Plating
 
@@ -124,4 +122,4 @@ The questions that remain with us now may be answered in weeks, months, or years
 
 *Undergoing rewrite.*
 
-On the 16th of Ilubya, 6225, Airve re-emerged with the renewed Coraxi: lost, scared, yet optimistic. Initially staying in camps in the Northeastern Peaks, they eventually relocated to [Boundary's Edge](Boundary's%20Edge.md) after the war.
+On the 16th of Ilubya, 6225, Airve re-emerged with the renewed Coraxi. Initially staying in camps in the Northeastern Peaks, they eventually relocated to [Boundary's Edge](Boundary's%20Edge.md) after the war.
