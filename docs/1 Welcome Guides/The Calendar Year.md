@@ -1,8 +1,8 @@
 ---
-fc-date: 
+fc-date:
 fc-calendar: Fracture
-fc-category: 
-fc-display-name: 
+fc-category:
+fc-display-name:
 share: true
 ---
 > [!warning] This article is a work in progress.
